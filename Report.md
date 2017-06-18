@@ -1,7 +1,7 @@
 Clover Phenotype Pipeline
 ================
 NChain Project
-17/06/2017 - 21:56:02
+18/06/2017 - 19:04:15
 
 -   [Growth curves for all Cameras](#growth-curves-for-all-cameras)
 -   [Inflection points](#inflection-points)
@@ -12,90 +12,15 @@ NChain Project
 
 ### Inflection points
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-3.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-4.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-5.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-6.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-7.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-8.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-9.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-10.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-11.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-12.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-13.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-14.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-15.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-16.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-17.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-18.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-19.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-20.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-21.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-22.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-23.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-24.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-25.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-26.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-27.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-28.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-29.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-30.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-31.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-32.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-33.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-34.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-35.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-36.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-37.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-38.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-39.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-40.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-41.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-42.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-43.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-44.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-45.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-46.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-47.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-48.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-49.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-50.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-51.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-52.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-53.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-54.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-55.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-56.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-57.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-58.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-59.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-60.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-61.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-62.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-63.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-64.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-65.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-66.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-67.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-68.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-69.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-70.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-71.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-72.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-73.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-74.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-75.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-76.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-77.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-78.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-79.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-80.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-81.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-82.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-83.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-84.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-85.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-86.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-87.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-88.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-89.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-90.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-91.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-92.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-93.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-94.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-95.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-96.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-97.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-98.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-99.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-100.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-101.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-102.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-103.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-104.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-105.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-106.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-107.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-108.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-109.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-110.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-111.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-112.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-113.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-114.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-115.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-116.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-117.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-118.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-119.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-120.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-121.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-122.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-123.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-124.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-125.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-126.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-127.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-128.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-129.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-130.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-131.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-132.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-133.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-134.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-135.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-136.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-137.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-138.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-139.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-140.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-141.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-142.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-143.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-144.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-145.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-3.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-4.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-5.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-6.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-7.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-8.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-9.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-10.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-11.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-12.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-13.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-14.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-15.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-16.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-17.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-18.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-19.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-20.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-21.png)
 
     Error in t.test.default(temp1$TotalArea, temp2$TotalArea, alternative = "less"): not enough 'y' observations
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-146.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-22.png)
 
-             Time                 Pot
-    1  2017-05-31     Ctain_0531.SM73
-    2  2017-05-25   Aearl_0306.SM140B
-    3  2017-06-04     Aearl_0749.SM46
-    4  2017-05-26    Ancor_0852.SM169
-    5  2017-06-06     Llanc_0851.SM25
-    6  2017-06-01   Aearl_0749.SM154C
-    7  2017-06-06   Sster_0750.SM133A
-    8  2017-05-29    Aalon_0821.SM158
-    9  2017-05-31   Borek_0309.SM151B
-    10 2017-06-01    Aearl_0749.SM156
-    11 2017-05-28    Aearl_0749.SM119
-    12 2017-05-26     Clfin_1063.SM92
-    13 2017-05-26    Rbani_0432.SM111
-    14 2017-05-25     Aalon_0307.SM61
-    15 2017-05-26   Aearl_0646.SM147A
-    16 2017-05-28   Aearl_0646.SM147A
-    17 2017-06-02   Sster_0313.SM144A
-    18 2017-06-02   Aalon_0718.SM145A
-    19 2017-05-27      Ancor_0953.SM6
-    20 2017-05-27    Sster_1064.SM118
-    21 2017-05-27      Aearl_0749.SM3
-    22 2017-06-02     Aoost_0543.SM25
-    23 2017-05-25    Clfin_0637.SM107
-    24 2017-06-02     Mrida_0953.SM39
-    25 2017-05-25   Aaran_0413.SM137B
-    26 2017-06-07     Rbani_0112.SM73
-    27 2017-05-27    Mrida_0851.SM150
-    28 2017-05-29    Mrida_0851.SM150
-    29 2017-05-25     Mrida_0426.SM93
-    30 2017-05-24   Ancor_0522.SM147B
-    31 2017-05-27 Borek_0309.SM151B.1
-    32 2017-06-02     Sster_0750.SM57
-    33 2017-05-28     Aalon_0923.SM73
-    34 2017-05-27     Aalon_0617.SM31
-    35 2017-05-27     Aalon_0307.SM68
-    36 2017-06-01   Ccyma_0102.SM122A
-    37 2017-06-04   Ccyma_0102.SM122A
-    38 2017-05-29     Banna_0525.SM73
-    39 2017-05-31     Banna_0525.SM73
-    40 2017-05-24   Banca_0947.SM141A
-    41 2017-05-26     Ancor_0421.SM86
-    42 2017-05-28   Banna_0627.SM84.1
-    43 2017-05-24    Llanc_0437.SM116
-    44 2017-05-24    Banca_0109.SM115
-    45 2017-05-26    Banca_0109.SM115
-    46 2017-06-02    Aearl_0749.SM158
-    47 2017-05-26   Aalon_0821.RCR221
-    48 2017-05-24   Clfin_0320.SM145A
-    49 2017-05-24     Rling_1061.SM73
-    50 2017-05-27    Aalon_0307.SM100
-    51 2017-05-25   Aearl_0749.SM126B
-    52 2017-06-06     Aearl_0411.SM73
-    53 2017-05-27    Aearl_0749.SM118
-    54 2017-05-24     Sster_0313.SM70
-    55 2017-06-06    Ancor_0742.SM169
-    56 2017-05-24   Rbani_1063.SM154A
-    57 2017-06-10     Aearl_0646.SM73
-    58 2017-05-29    Volin_0203.SM105
-    59 2017-06-08     Kdike_0536.SM73
-    60 2017-06-02     Ilona_0427.SM53
-    61 2017-05-29     Aalon_0408.SM38
-    62 2017-06-02     Aalon_0408.SM38
-    63 2017-05-25     Aearl_0749.SM25
-    64 2017-06-06   Aearl_0749.SM151B
-    65 2017-05-25   Ancor_0852.SM140B
-    66 2017-05-27    Kdike_0103.SM117
-    67 2017-05-24     Aoost_0430.SM58
-    68 2017-05-25     Kdike_0311.SM73
-    69 2017-06-08     Ccyma_0102.SM73
-    70 2017-06-10     Ccyma_0102.SM73
-    71 2017-05-24   Kdike_0853.SM122A
-    72 2017-05-27     Mrida_0210.SM73
-    73 2017-05-24   Llanc_0538.SM21.1
-    74 2017-05-26   Ilona_0742.SM128A
-    75 2017-05-25    Ilona_0210.SM104
-    76 2017-05-24  Clfin_0751.SM158.1
-    77 2017-05-27     Aoost_0104.SM21
-    78 2017-05-27     Ancor_0317.SM86
-    79 2017-05-29     Aoost_0852.SM18
-    80 2017-05-28   Clfin_0425.SM145A
+            Time               Pot
+    1 2017-05-31   Ctain_0531.SM73
+    2 2017-05-25 Aearl_0306.SM140B
+    3 2017-06-04   Aearl_0749.SM46
+    4 2017-06-06   Llanc_0851.SM25
+    5 2017-06-01 Aearl_0749.SM154C
