@@ -1,7 +1,7 @@
 Clover Phenotype Pipeline
 ================
 NChain Project
-18/06/2017 - 19:04:15
+19/06/2017 - 19:04:27
 
 -   [Growth curves for all Cameras](#growth-curves-for-all-cameras)
 -   [Inflection points](#inflection-points)
@@ -12,15 +12,12 @@ NChain Project
 
 ### Inflection points
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-3.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-4.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-5.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-6.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-7.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-8.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-9.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-10.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-11.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-12.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-13.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-14.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-15.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-16.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-17.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-18.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-19.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-20.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-21.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
     Error in t.test.default(temp1$TotalArea, temp2$TotalArea, alternative = "less"): not enough 'y' observations
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-22.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)
 
             Time               Pot
     1 2017-05-31   Ctain_0531.SM73
     2 2017-05-25 Aearl_0306.SM140B
-    3 2017-06-04   Aearl_0749.SM46
-    4 2017-06-06   Llanc_0851.SM25
-    5 2017-06-01 Aearl_0749.SM154C
