@@ -1,7 +1,7 @@
 Clover Phenotype Pipeline
 ================
 NChain Project
-20/08/2017 - 10:46:06
+23/08/2017 - 10:17:32
 
 -   [Growth curves for all Cameras](#growth-curves-for-all-cameras)
 -   [Inflection points](#inflection-points)
@@ -12,12 +12,16 @@ NChain Project
 
 ### Inflection points
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-1.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-3.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-4.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-5.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-6.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-7.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-8.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-9.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-10.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-11.png)![](Report_files/figure-markdown_github/unnamed-chunk-4-12.png)
 
     Error in t.test.default(temp1$TotalArea, temp2$TotalArea, alternative = "less"): not enough 'y' observations
 
-![](Report_files/figure-markdown_github/unnamed-chunk-4-2.png)
+![](Report_files/figure-markdown_github/unnamed-chunk-4-13.png)
 
             Time               Pot
-    1 2017-05-31   Ctain_0531.SM73
-    2 2017-05-25 Aearl_0306.SM140B
+    1 2017-05-25 Aearl_0306.SM140B
+    2 2017-06-17 Ancor_0317.SM163A
+    3 2017-07-06 Ilona_0529.SM165A
+    4 2017-06-18   Aearl_0749.SM46
+    5 2017-06-17   Ancor_0629.SM73
+    6 2017-06-06 Aearl_0749.SM128A
